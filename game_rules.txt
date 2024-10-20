@@ -1,0 +1,35 @@
+# Glorp Game Rules
+The goal of Glorp is to collect the most powerful Glorps. Glorps can be obtained multiple ways.
+
+## :gift: Spinning
+* Type `=Spin` to spin the wheel and obtain Glorps.
+* Some Glorps are rarer than others.
+* You `=Spin` once every 30 minutes.
+* Some Glorps grant bonuses and special abilities.
+## :joker: Collecting
+* Type `=View` to view your Glorp collection sorted by rank.
+* Type `=View Sort` to view your collection alphabetically.
+* Type `=View "Glorp Name"` for a detailed view of a specific Glorp.
+## :game_die: Gambling
+* Type `=Gamble "Glorp Name"` gamble away your Glorps.
+* Gambled Glorps grant multiple additional spins based on their rank.
+* Certain Glorps can only be obtained through gambling.
+* Gambling a Glorp doesn't guarantee a reward.
+## :tools: Crafting
+* Use `=Craft "Glorp Name"` to make a craftable Glorp.
+* Type `=Craft` to view a list of recipes.
+* Crafting a Glorp will consume its ingredients from your collection.
+## :knife: Sacrificing
+* Type `=Kill "Glorp Name"` to sacrifice a Glorp.
+* Rewards are gifted when the **Blood God** is appeased.
+* Rarer Glorps grant favor faster than common ones.
+## :prohibited: Banishing
+* Type `=Ban "Glorp Name"` to banish a Glorp.
+* A banished Glorp will not be awarded by the wheel when using `=Spin`.
+* You must have the banishment perk to banish Glorps.
+* Type `=Ban` to view your banishment settings.
+* Type `=Ban Clear "Glorp Name" to unbanish a Glorp.
+## :fire: Discarding
+* Type `=Discard "Glorp Name"` to remove a Glorp from your collection.
+* If you need space, sacrificing and gambling are better alternative to discarding.
+* Some Glorps are too powerful to be sacrificed or gambled away.

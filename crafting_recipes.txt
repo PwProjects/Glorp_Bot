@@ -1,0 +1,27 @@
+# :tools: Crafting Recipes
+
+Type `=Craft "Glorp_Name"` to craft a new Glorp.
+
+-# You'll need the necessary ingredients to successfully craft a new Glorp.
+
+`Big Joshie  =   Doctor     +   Priest`
+`Distorted   =   Gray       +   Nuclear`
+`Doctor      =   Rat        +   Feller`
+`Eclipse     =   Moon       +   Sun`
+`Enraged     =   Mad        +   Mad`
+`Feller      =   Mook       +   Whitename`
+`Giant       =   Classic    +   Classic`
+`Glarp       =   Classic    +   Distorted`
+`Glurp       =   Classic    +   Negative`
+`Glyrp       =   Glurp      +   Distorted`
+`Liminal     =   Lurker     +   Distorted`
+`Livid       =   Enraged    +   Enraged`
+`Machine     =   Priest     +   Mook`
+`Mook        =   Whitename  +   Whitename`
+`Moon        =   Sun        +   Negative`
+`Platinum    =   Gold       +   Gold`
+`Priest      =   Feller     +   Mook`
+`Rat         =   Machine    +   Feller`
+`Rue         =   Randolph   +   Bentley`
+`Sketch      =   Distorted  +   Self-Portrait`
+`Speck       =   Smol       +   Smol`
